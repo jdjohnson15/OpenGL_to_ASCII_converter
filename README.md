@@ -1,4 +1,4 @@
 OpenGL_to_ASCII_converter
 =========================
 
-This is a project I made, which converts a 3D image generated using OpenGL in ASCII characters in a console. 
+This generates a 3D image using OpenGL based on .obj files. Then the software translates this 3D image into ASCII characters in a terminal console. 
